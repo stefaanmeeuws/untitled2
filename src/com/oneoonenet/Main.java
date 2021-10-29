@@ -15,7 +15,7 @@ public class Main {
             return 0;
         } else {
             System.out.print(" " + theSum);
-            return sum(right, theSum); // recursive call
+            return sum(right, theSum);
         }
     }
 }
